@@ -49,7 +49,7 @@
 
 | Project | Stack | Description |
 |---|---|---|
-| **Hospital Smart Assistant** 🔒 | Python · pgvector · React | AI-powered hospital assistant (RAG over PostgreSQL/pgvector). Team software-engineering project. _Source private — available on request._ |
+| **[Hospital Smart Assistant](https://sahara.nashtagroup.co.id/)** 🔒 | Python · pgvector · React | AI-powered hospital assistant (RAG over PostgreSQL/pgvector). Team software-engineering project. **[🔗 Live demo](https://sahara.nashtagroup.co.id/)** · source private. |
 | **HiringGo** 🔒 | Java · Spring Boot | Teaching-assistant hiring & course-management platform. REST API with JWT role-based auth. _Source private — available on request._ |
 | **[Data Science Showcase](https://github.com/KoecengDaun/data-science-showcase)** | PyTorch · Transformers · scikit-learn | Collection of Computer Vision, NLP & tabular ML notebooks from my Kaggle work. |
 | **[neko-alarm](https://github.com/KoecengDaun/neko-alarm)** | Kotlin · Android | Native Android alarm app I built to fix my messy sleep schedule. |
