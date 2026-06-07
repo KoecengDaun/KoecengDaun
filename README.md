@@ -50,12 +50,13 @@
 | Project | Stack | Description |
 |---|---|---|
 | **[Hospital Smart Assistant](https://sahara.nashtagroup.co.id/)** 🔒 | Python · pgvector · React | AI-powered hospital assistant (RAG over PostgreSQL/pgvector). Team software-engineering project. **[🔗 Live demo](https://sahara.nashtagroup.co.id/)** · source private. |
-| **HiringGo** 🔒 | Java · Spring Boot | Teaching-assistant hiring & course-management platform. REST API with JWT role-based auth. _Source private — available on request._ |
+| **[HiringGo](https://github.com/HiringGo-B04)** | Java · Spring Boot | Teaching-assistant hiring platform built as **Spring Boot microservices** (7 services, JWT role-based auth). Team project — see the [HiringGo-B04](https://github.com/HiringGo-B04) org. |
 | **[Data Science Showcase](https://github.com/KoecengDaun/data-science-showcase)** | PyTorch · Transformers · scikit-learn | Collection of Computer Vision, NLP & tabular ML notebooks from my Kaggle work. |
 | **[neko-alarm](https://github.com/KoecengDaun/neko-alarm)** | Kotlin · Android | Native Android alarm app I built to fix my messy sleep schedule. |
 | **[YewChat](https://github.com/KoecengDaun/YewChat_Adpro)** | Rust · Yew · WASM | Real-time chat web app compiled to WebAssembly — dark mode, reactions, presence. |
 | **[BookNest Store](https://github.com/KoecengDaun/book-nest-online-store-mobile)** | Django · Flutter | Online bookstore — full-stack web + mobile, deployed. |
 | **[Mental Health Tracker](https://github.com/KoecengDaun/mental-health-tracker-mobile)** | Django · Flutter | Cross-platform app to track mental-health activities. |
+| **[DepokRasa](https://github.com/PBP-E05/depokrasa-mobile)** | Django · Flutter | Food-discovery app for Depok — full-stack web + mobile. Team project. |
 
 ---
 
